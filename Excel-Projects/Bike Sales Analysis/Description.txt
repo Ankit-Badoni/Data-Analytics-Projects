@@ -1,0 +1,3 @@
+This project contains data of people who purchased bikes.
+Using Excel i have created a interactive Dashboard which can be used to analyse data by different aspacts like which gender purchased the more bikes or bike purchased by different age groups.
+We can also analyse by the region that where more bikes are purchased and by which age groups or gender and what are there marital status.
